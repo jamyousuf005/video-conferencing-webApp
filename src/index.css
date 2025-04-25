@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+  }
+  
+  .video{
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .myCallContainer{
+   height: 500px;
+  }
+  /* App.css */
+  
+  .navbar {
+    width: 100%;
+    padding: 16px 24px;
+    background: linear-gradient(90deg, #3b82f6, #9333ea); /* Blue to Purple */
+    color: white;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
