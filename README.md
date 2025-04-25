@@ -1,12 +1,28 @@
-# React + Vite
+Video Conferencing React App
+A simple and elegant video conferencing web application built with React and ZegoCloud's UI Kit. This app allows users to create and join virtual meeting rooms with ease.
+Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Instant video conferencing with no account required
+Unique room ID generation for private meetings
+Sharable meeting links for easy invitations
+Full video and audio conferencing capabilities
+Clean and responsive UI
 
-Currently, two official plugins are available:
+Demo
+Live Demo https://video-conferencing-web-app-zeta.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
 
-## Expanding the ESLint configuration
+React.js
+ZegoCloud UIKit Prebuilt SDK
+HTML/CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Usage
+
+1. Open the application in your browser
+   
+2. A random room ID will be generated automatically
+   
+3. Share the URL with others to invite them to your meeting
+ 
+4. Alternatively, they can use the "Copy link" button inside the app
